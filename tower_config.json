@@ -1,0 +1,33 @@
+{
+  "game_settings": {
+    "tower_height": 100,
+    "auto_save": true,
+    "sound_effects": true,
+    "default_color_theme": "default",
+    "animation_speed": 0.03,
+    "difficulty": "normal"
+  },
+  "challenge_settings": {
+    "luck_challenge_weight": 1.0,
+    "skill_challenge_weight": 1.0,
+    "mixed_challenge_weight": 1.0,
+    "legendary_challenge_weight": 0.5,
+    "boss_frequency": 10,
+    "hidden_floor_frequency": 7,
+    "mini_game_chance": 0.15
+  },
+  "reward_settings": {
+    "basic_reward_chance": 0.3,
+    "advanced_reward_threshold": 20,
+    "legendary_reward_threshold": 40,
+    "boss_reward_guaranteed": true
+  },
+  "companion_settings": {
+    "max_companions": 3,
+    "encounter_chance": 0.1
+  },
+  "environment_settings": {
+    "weather_change_frequency": 3,
+    "day_night_cycle_frequency": 5
+  }
+}

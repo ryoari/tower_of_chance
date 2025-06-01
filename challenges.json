@@ -1,0 +1,290 @@
+{
+  "luck": [
+    {
+      "name": "Coin Flip",
+      "description": "Guess the outcome of a coin flip",
+      "difficulty": 1
+    },
+    {
+      "name": "Lucky Draw",
+      "description": "Draw a card from the deck",
+      "difficulty": 2
+    },
+    {
+      "name": "Roll of Fate",
+      "description": "Roll the dice of destiny",
+      "difficulty": 3
+    },
+    {
+      "name": "Wheel of Fortune",
+      "description": "Spin the wheel and hope it lands on your number",
+      "difficulty": 4
+    },
+    {
+      "name": "Mystic Runes",
+      "description": "The ancient runes will determine your fate",
+      "difficulty": 5
+    },
+    {
+      "name": "Celestial Alignment",
+      "description": "The stars must align in your favor",
+      "difficulty": 6
+    },
+    {
+      "name": "Fortune's Favor",
+      "description": "Test if Lady Luck smiles upon you today",
+      "difficulty": 7
+    },
+    {
+      "name": "Chaos Theory",
+      "description": "Predict the outcome of a chaotic system",
+      "difficulty": 8
+    },
+    {
+      "name": "Quantum Lottery",
+      "description": "Your fate is determined by quantum probability",
+      "difficulty": 9
+    },
+    {
+      "name": "Divine Intervention",
+      "description": "Pray for the gods to intervene on your behalf",
+      "difficulty": 10
+    },
+    {
+      "name": "Butterfly Effect",
+      "description": "A small action now could have massive consequences",
+      "difficulty": 11
+    },
+    {
+      "name": "Cosmic Dice",
+      "description": "Roll the dice that determine the fate of universes",
+      "difficulty": 12
+    },
+    {
+      "name": "Probability Storm",
+      "description": "Navigate through a storm of random events",
+      "difficulty": 13
+    },
+    {
+      "name": "Fate's Crossroads",
+      "description": "Choose between multiple paths with unknown outcomes",
+      "difficulty": 14
+    },
+    {
+      "name": "Destiny's Gamble",
+      "description": "Bet everything on a single moment of chance",
+      "difficulty": 15
+    }
+  ],
+  "skill": [
+    {
+      "name": "Quick Reflexes",
+      "description": "Press the key when the timer hits zero",
+      "difficulty": 1
+    },
+    {
+      "name": "Memory Test",
+      "description": "Remember the sequence of symbols",
+      "difficulty": 2
+    },
+    {
+      "name": "Riddle Master",
+      "description": "Solve the ancient riddle",
+      "difficulty": 3
+    },
+    {
+      "name": "Pattern Recognition",
+      "description": "Find the pattern and predict the next element",
+      "difficulty": 4
+    },
+    {
+      "name": "Logic Puzzle",
+      "description": "Solve a complex logic puzzle with limited time",
+      "difficulty": 5
+    },
+    {
+      "name": "Code Breaker",
+      "description": "Decipher an encrypted message",
+      "difficulty": 6
+    },
+    {
+      "name": "Precision Timing",
+      "description": "Hit a series of targets with perfect timing",
+      "difficulty": 7
+    },
+    {
+      "name": "Mathematical Genius",
+      "description": "Solve a complex equation under pressure",
+      "difficulty": 8
+    },
+    {
+      "name": "Spatial Reasoning",
+      "description": "Navigate a 3D puzzle in your mind",
+      "difficulty": 9
+    },
+    {
+      "name": "Perfect Pitch",
+      "description": "Identify musical notes by ear alone",
+      "difficulty": 10
+    },
+    {
+      "name": "Speed Reading",
+      "description": "Absorb and recall information from a rapidly displayed text",
+      "difficulty": 11
+    },
+    {
+      "name": "Linguistic Mastery",
+      "description": "Translate an ancient text with minimal context",
+      "difficulty": 12
+    },
+    {
+      "name": "Strategic Planning",
+      "description": "Plan multiple moves ahead in a complex game",
+      "difficulty": 13
+    },
+    {
+      "name": "Photographic Memory",
+      "description": "Recall every detail from a briefly shown image",
+      "difficulty": 14
+    },
+    {
+      "name": "Mind Palace",
+      "description": "Organize and retrieve complex information from memory",
+      "difficulty": 15
+    }
+  ],
+  "mixed": [
+    {
+      "name": "Treasure Hunt",
+      "description": "Find the hidden treasure with limited clues",
+      "difficulty": 2
+    },
+    {
+      "name": "Dragon's Gambit",
+      "description": "Outsmart or outrun the tower's dragon",
+      "difficulty": 4
+    },
+    {
+      "name": "Leap of Faith",
+      "description": "Jump across the chasm with uncertain footing",
+      "difficulty": 3
+    },
+    {
+      "name": "Enchanted Door",
+      "description": "Find the right key and the courage to open the mysterious door",
+      "difficulty": 5
+    },
+    {
+      "name": "Shadow Maze",
+      "description": "Navigate a maze that shifts with your choices",
+      "difficulty": 6
+    },
+    {
+      "name": "Elemental Trial",
+      "description": "Master the elements through skill and chance",
+      "difficulty": 7
+    },
+    {
+      "name": "Phantom Chess",
+      "description": "Play against a ghostly opponent who sometimes cheats",
+      "difficulty": 8
+    },
+    {
+      "name": "Temporal Puzzle",
+      "description": "Solve a puzzle that changes with time",
+      "difficulty": 9
+    },
+    {
+      "name": "Mirage Market",
+      "description": "Negotiate with illusions to find the real merchant",
+      "difficulty": 10
+    },
+    {
+      "name": "Spectral Bridge",
+      "description": "Cross a bridge that appears and disappears randomly",
+      "difficulty": 11
+    },
+    {
+      "name": "Dimensional Rift",
+      "description": "Navigate through shifting dimensions with changing rules",
+      "difficulty": 12
+    },
+    {
+      "name": "Arcane Duel",
+      "description": "Engage in magical combat with unpredictable spells",
+      "difficulty": 13
+    },
+    {
+      "name": "Cosmic Balance",
+      "description": "Maintain equilibrium between opposing forces",
+      "difficulty": 14
+    },
+    {
+      "name": "Soul Mirror",
+      "description": "Face a reflection that knows your every move",
+      "difficulty": 15
+    },
+    {
+      "name": "Reality Weaver",
+      "description": "Create your own path through the fabric of reality",
+      "difficulty": 16
+    },
+    {
+      "name": "Time Labyrinth",
+      "description": "Navigate a maze where past, present, and future overlap",
+      "difficulty": 17
+    },
+    {
+      "name": "Void Walker",
+      "description": "Cross the emptiness between worlds with only your will",
+      "difficulty": 18
+    },
+    {
+      "name": "Mind Bender",
+      "description": "Reshape your thoughts to solve an impossible puzzle",
+      "difficulty": 19
+    },
+    {
+      "name": "Eternity's Gate",
+      "description": "Find the key hidden within your own memories",
+      "difficulty": 20
+    }
+  ],
+  "legendary": [
+    {
+      "name": "Phoenix Rebirth",
+      "description": "Rise from your failures stronger than before",
+      "difficulty": 20
+    },
+    {
+      "name": "Titan's Challenge",
+      "description": "Face a trial designed for beings far greater than mortals",
+      "difficulty": 25
+    },
+    {
+      "name": "Cosmic Harmony",
+      "description": "Align all elements of existence into perfect balance",
+      "difficulty": 30
+    },
+    {
+      "name": "Fate's Tapestry",
+      "description": "Reweave the very threads of destiny",
+      "difficulty": 35
+    },
+    {
+      "name": "Primordial Creation",
+      "description": "Forge something new from the raw essence of reality",
+      "difficulty": 40
+    },
+    {
+      "name": "Infinity's Edge",
+      "description": "Stand at the boundary between all and nothing",
+      "difficulty": 45
+    },
+    {
+      "name": "Ultimate Ascension",
+      "description": "Transcend the limitations of your mortal form",
+      "difficulty": 50
+    }
+  ]
+}
